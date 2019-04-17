@@ -1,0 +1,10 @@
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Ejercicio 160419\bin\Debug\Ejercicio 160419.exe.config
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Ejercicio 160419\bin\Debug\Ejercicio 160419.exe
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Ejercicio 160419\bin\Debug\Ejercicio 160419.pdb
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Ejercicio 160419\obj\Debug\Ejercicio 160419.csprojAssemblyReference.cache
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Ejercicio 160419\obj\Debug\Ejercicio_160419.Form1.resources
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Ejercicio 160419\obj\Debug\Ejercicio_160419.Properties.Resources.resources
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Ejercicio 160419\obj\Debug\Ejercicio 160419.csproj.GenerateResource.cache
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Ejercicio 160419\obj\Debug\Ejercicio 160419.csproj.CoreCompileInputs.cache
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Ejercicio 160419\obj\Debug\Ejercicio 160419.exe
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Ejercicio 160419\obj\Debug\Ejercicio 160419.pdb

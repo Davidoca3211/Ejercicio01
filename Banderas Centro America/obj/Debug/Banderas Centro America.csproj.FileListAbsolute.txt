@@ -1,0 +1,10 @@
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Banderas Centro America\bin\Debug\Banderas Centro America.exe.config
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Banderas Centro America\bin\Debug\Banderas Centro America.exe
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Banderas Centro America\bin\Debug\Banderas Centro America.pdb
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Banderas Centro America\obj\Debug\Banderas Centro America.csprojAssemblyReference.cache
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Banderas Centro America\obj\Debug\Banderas_Centro_America.Form1.resources
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Banderas Centro America\obj\Debug\Banderas_Centro_America.Properties.Resources.resources
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Banderas Centro America\obj\Debug\Banderas Centro America.csproj.GenerateResource.cache
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Banderas Centro America\obj\Debug\Banderas Centro America.csproj.CoreCompileInputs.cache
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Banderas Centro America\obj\Debug\Banderas Centro America.exe
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Banderas Centro America\obj\Debug\Banderas Centro America.pdb

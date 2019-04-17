@@ -1,0 +1,10 @@
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Concatenar Caja de texto Mensaje\bin\Debug\Concatenar Caja de texto Mensaje.exe.config
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Concatenar Caja de texto Mensaje\bin\Debug\Concatenar Caja de texto Mensaje.exe
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Concatenar Caja de texto Mensaje\bin\Debug\Concatenar Caja de texto Mensaje.pdb
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Concatenar Caja de texto Mensaje\obj\Debug\Concatenar_Caja_de_texto_Mensaje.Form1.resources
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Concatenar Caja de texto Mensaje\obj\Debug\Concatenar_Caja_de_texto_Mensaje.Properties.Resources.resources
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Concatenar Caja de texto Mensaje\obj\Debug\Concatenar Caja de texto Mensaje.csproj.GenerateResource.cache
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Concatenar Caja de texto Mensaje\obj\Debug\Concatenar Caja de texto Mensaje.csproj.CoreCompileInputs.cache
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Concatenar Caja de texto Mensaje\obj\Debug\Concatenar Caja de texto Mensaje.exe
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Concatenar Caja de texto Mensaje\obj\Debug\Concatenar Caja de texto Mensaje.pdb
+C:\Users\David Ocaña\source\repos\Ejercicio 160419\Concatenar Caja de texto Mensaje\obj\Debug\Concatenar Caja de texto Mensaje.csprojAssemblyReference.cache
